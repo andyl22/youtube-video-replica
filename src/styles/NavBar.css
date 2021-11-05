@@ -1,8 +1,9 @@
 nav {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   background: #202020;
-  padding: 12px 25px;
+  padding: 5px 25px;
   color: white;
 }
 
@@ -10,6 +11,17 @@ nav {
   color: white;
   height: 1.75em;
   width: 1.75em;
+}
+
+.youtube-logo {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.youtube-icon {
+  height: 3em;
+  width: 3em;
 }
 
 .account-actions .icons {

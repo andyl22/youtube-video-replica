@@ -7,8 +7,8 @@ function SearchBar() {
   return (
     <div className='search-container'>
       <form className='search-form'>
-        <input type='search'></input>
-        <BsSearch className='submit-search-icon'/>
+        <input type='search' placeholder='Search'></input>
+        <button><BsSearch className='submit-search-icon'/></button>
       </form>
       <div className='microphone-search'>
         <BiMicrophone className='microphone-icon'/>
