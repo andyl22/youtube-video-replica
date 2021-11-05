@@ -1,0 +1,31 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  background: #202020;
+  padding: 12px 25px;
+  color: white;
+}
+
+.nav-headers .icons {
+  color: white;
+  height: 1.75em;
+  width: 1.75em;
+}
+
+.account-actions .icons {
+  color: white;
+  height: 1.3em;
+  width: 1.3em;
+}
+
+.nav-headers {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.account-actions {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
