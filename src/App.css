@@ -1,43 +1,35 @@
-main {
+.App {
   display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+main {
+  display: grid;
+  grid-template: 2fr 1fr / 1200px 550px;
+  gap: 25px;
   justify-content: center;
   height: 100%;
-  width: 100%;
-  padding: 25px;
-  gap: 50px;
+  padding: 25px 25px;
 }
 
-.main-content {
-  display: flex;
+p, h2 {
+  color: white;
 }
 
-.video-player {
-  display: flex;
-  width: 1200px;
-}
-
-.video {
-  width: 100%;
-}
-
-.suggestions {
-  width: 600px;
-  height: 720px;
-  background: green;
+@media (max-width:1920px) {
+  main {
+    grid-template: 2fr 1fr / 2fr 550px;
+  }
 }
 
 @media (max-width:1500px) {
   main {
-    flex-wrap: wrap;
-  }
-
-  .main-content {
-    width: 100%;
-    height: 100%;
-    justify-content: center;
+    grid-template: 1fr 1fr 1fr / 1fr;
   }
 
   .suggestions {
-    width: 1200px;
+    grid-column: 1;
+    grid-row: 2;
   }
 }
