@@ -10,6 +10,7 @@ html {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -22,4 +23,9 @@ body {
 #root {
   display: flex;
   width: 100%;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: 600;
 }

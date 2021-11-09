@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Video.css';
-import VideoMetaData from './VideoMetaData.js';
+import VideoData from './VideoData.js';
 
 function Video() {
   return (
@@ -8,7 +8,7 @@ function Video() {
       <div className='video-player'>
         <iframe width="1280px" height="720px" src="https://www.youtube.com/embed/lJIrF4YjHfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen className='video'></iframe>
       </div>
-      <VideoMetaData />
+      <VideoData />
     </section>
   )
 }

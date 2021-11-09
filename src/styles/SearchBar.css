@@ -11,8 +11,9 @@
   align-items: center;
   height: 100%;
   background: #313131;
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  gap: 1px;
 }
 
 .submit-search-icon {
@@ -32,10 +33,6 @@ button:hover, .microphone-search:hover {
   cursor: pointer;
 }
 
-.microphone-search:hover {
-
-}
-
 .microphone-search {
   display: flex;
   justify-content: center;
@@ -49,6 +46,10 @@ button:hover, .microphone-search:hover {
 .microphone-icon {
   height: 50%;
   width: 50%;
+}
+
+.microphone-search:hover {
+  background: #1d1d1d;
 }
 
 input[type=search] {
