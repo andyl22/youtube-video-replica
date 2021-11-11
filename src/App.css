@@ -22,6 +22,11 @@ p, h2 {
   grid-row: 1/3;
 }
 
+.subfont {
+  font-size: 13px;
+  color: #AAAAAA;
+}
+
 @media (max-width:1920px) {
   main {
     grid-template: 960px 1fr / 2fr auto;

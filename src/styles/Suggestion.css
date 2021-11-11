@@ -8,11 +8,6 @@
   flex-direction: column;
 }
 
-p.author, p.history {
-  font-size: 12px;
-  color: #AAA79C;
-}
-
 .thumbnail {
   height: 94px;
   width: 168px;

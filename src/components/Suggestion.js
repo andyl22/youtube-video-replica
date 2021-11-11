@@ -9,8 +9,8 @@ function Suggestion(props) {
       <img src={previewURL} alt={title} className='thumbnail'></img>
       <div className='metadata'>
         <p className='title'>{title}</p>
-        <p className='author'>{author}</p>
-        <p className='history'>{views} views • {time} ago</p>
+        <p className='subfont'>{author}</p>
+        <p className='subfont'>{views} views • {time} ago</p>
       </div>
     </div>
   )

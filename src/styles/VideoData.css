@@ -4,13 +4,27 @@
 }
 
 .video-metadata {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
   padding-bottom: 25px;
+}
+
+.video-metadata p {
+  font-size: 15px;
 }
 
 .video-header {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  padding-top: 10px;
+}
+
+.video-title {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Roboto", "Arial", sans-serif;
 }
 
 .interactive-data {
@@ -44,4 +58,24 @@
 
 .video-body {
   padding-bottom: 15px;
+}
+
+.profile-img {
+  border-radius: 25px;
+}
+
+.author {
+  display: flex;
+  gap: 15px;
+}
+
+.author-name {
+  margin-top: 5px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.video-description {
+  margin-left: 63px;
+  margin-top: 10px;
 }

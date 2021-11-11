@@ -3,13 +3,13 @@ import '../styles/VideoData.css'
 import {BiDislike, BiLike, BiShare, BiListPlus} from 'react-icons/bi'
 import {VscEllipsis} from 'react-icons/vsc'
 
-function VideoData() {
+function VideoData(props) {
   return (
     <div className='video-data'>
       <section className='video-header'>
         <div className='video-metadata'>
-          <h2 className='video-title'>Video Title</h2>
-          <p className='video-history'>12,742,555 views * Mar 28, 2018</p>
+          <h2 className='video-title'>COSTA RICA IN 4K 60fps HDR (ULTRA HD)</h2>
+          <p className='subfont'>12,742,555 views • Mar 28, 2018</p>
         </div>
         <div className='interactive-data'>
           <div className='likes'>
@@ -27,8 +27,14 @@ function VideoData() {
         </div>
       </section>
       <section className='video-body'>
-        <p className='video-author'>Author</p>
-        <p className='video-description'>Video Description</p>
+        <figcaption className='author'>
+          <img src={props.profileImgURL} alt={props.authorName + "profile image"} className='profile-img'/>
+          <div>
+            <p className='author-name'>{props.authorName}</p>
+            <p className='subfont'>{props.subscribers} subscribers</p>
+          </div>
+        </figcaption>
+        <p className='video-description'>We've re-mastered and re-uploaded our favorite video in HDR!</p>
       </section>
     </div>
   )
