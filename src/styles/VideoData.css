@@ -24,13 +24,11 @@
 .video-title {
   font-size: 18px;
   font-weight: 400;
-  font-family: "Roboto", "Arial", sans-serif;
 }
 
 .interactive-data {
   display: flex;
   gap: 15px;
-  padding-bottom: 15px;
 }
 
 .interactive-data svg {

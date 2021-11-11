@@ -10,6 +10,26 @@ function Suggestions() {
       <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
       <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
       <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
+      <Suggestion previewURL='https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg' title='Peru 8k HDR 60 FPS' author='Jacob + Katie Schwarz' views='4.3M' time='3 years'/>
     </aside>
   )
 }

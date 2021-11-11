@@ -19,3 +19,7 @@ p.title {
   margin-bottom: 5px;
   color: white;
 }
+
+p.title:hover, .thumbnail:hover {
+  cursor: pointer;
+}

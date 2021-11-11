@@ -6,7 +6,7 @@
 
 main {
   display: grid;
-  grid-template: 960px 1fr / 1280px auto;
+  grid-template: 960px 1fr / 2fr auto;
   gap: 25px;
   justify-content: center;
   height: 100%;
@@ -27,13 +27,13 @@ p, h2 {
   color: #AAAAAA;
 }
 
-@media (max-width:1920px) {
+@media (max-width:1500px) {
   main {
-    grid-template: 960px 1fr / 2fr auto;
+    grid-template: 720px 1fr / 2fr auto;
   }
 }
 
-@media (max-width:1500px) {
+@media (max-width:1040px) {
   main {
     grid-template: 720px 1fr 1fr / 1fr;
   }
@@ -44,15 +44,8 @@ p, h2 {
   }
 }
 
-
-@media (max-width:1000px) {
-  main {
-    grid-template: 600px 1fr 1fr / 1fr;
-  }
-}
-
 @media (max-width:700px) {
   main {
-    grid-template: 420px 1fr 1fr / 1fr;
+    grid-template: 600px 1fr 1fr / 1fr;
   }
 }

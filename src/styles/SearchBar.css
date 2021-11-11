@@ -4,6 +4,8 @@
   gap: 20px;
   height: 40px;
   padding: 0px 20px;
+  min-width: 250px;
+  width: 550px;
 }
 
 .search-form {
@@ -14,6 +16,7 @@
   border-top-right-radius: 2px;
   border-bottom-right-radius: 2px;
   gap: 1px;
+  width: 100%;
 }
 
 .submit-search-icon {
@@ -53,7 +56,7 @@ button:hover, .microphone-search:hover {
 }
 
 input[type=search] {
-  width: 550px;
+  width: 100%;
   height: 100%;
   background: #121212;
   color: white;
